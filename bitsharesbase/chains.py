@@ -10,4 +10,9 @@ known_chains = {
         "core_symbol": "TEST",
         "prefix": "TEST",
     },
+    "DEV": {
+        "chain_id": "9774690246e238a703376e2b87670e08bd542c085ff56d9d3a99c8ae15fbc035",
+        "core_symbol": "BTS",
+        "prefix": "BTS",
+    },
 }
